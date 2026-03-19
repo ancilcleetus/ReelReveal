@@ -4,3 +4,6 @@
 
 ### Download and install Python 3.12
 
+### Create folder for model => ReelReveal-video-sentiment-model
+
+### Install VSCode extensions => Python, Pylance, Python Debugger, autopep8, isort
