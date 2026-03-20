@@ -1,4 +1,4 @@
-# ReelReveal: SaaS platform for Sentiment and Emotion Prediction from Videos
+# ReelReveal Platform Design Document
 
 ## Video Sentiment Model
 
