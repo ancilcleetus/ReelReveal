@@ -23,7 +23,10 @@
 * Wait for VSCode to automatically activate venv
 * `python --version` => verify Python version as 3.12
 * `pip --version` => check python package manager
+* `pip list` => shows list of installed packages
 
-## Dataset
+## Download MELD Dataset
+* Go to [Multimodal EmotionLines Dataset (MELD)](https://affective-meld.github.io/)
+* `wget https://web.eecs.umich.edu/~mihalcea/downloads/MELD.Raw.tar.gz`  # Download MELD dataset inside VSCode Integrated Terminal
 
 ## Installation of Libraries and Dependencies
