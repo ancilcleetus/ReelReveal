@@ -1,6 +1,6 @@
-# ReelReveal: SaaS platform for Sentiment and Emotion Prediction from Videos
+# ReelReveal: Step-by-Step Development Log
 
-## Project Initialization: Installation of Libraries and Dependencies
+## Project Initialization
 
 ### Download and install Python 3.12
 
@@ -21,7 +21,9 @@
 * Right click on the empty space on left side (Explorer)
 * Choose 'Open in Integrated Terminal'
 * Wait for VSCode to automatically activate venv
-* python --version => verify Python version as 3.12
-* pip --version => check python package manager
+* `python --version` => verify Python version as 3.12
+* `pip --version` => check python package manager
 
+## Dataset
 
+## Installation of Libraries and Dependencies
