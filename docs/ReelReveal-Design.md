@@ -14,3 +14,10 @@ The high level diagram of the Video Sentiment Model is shown below:
 
 ![High level diagram of the Video Sentiment Model](assets/video-sentiment-model-high-level-diagram.png)
 
+## Modalities in the MELD Dataset
+
+Modalities are the types of inputs or outputs that the model can work with. MELD dataset has utterances in 3 modalities - video, text, audio. These three modalities are shown below:
+
+![Modalities in the MELD Dataset](assets/MELD-modalities.png)
+
+
