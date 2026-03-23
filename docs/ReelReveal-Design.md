@@ -20,4 +20,10 @@ Modalities are the types of inputs or outputs that the model can work with. MELD
 
 ![Modalities in the MELD Dataset](assets/MELD-modalities.png)
 
+## Modalities in the Video Sentiment Model
+
+Using a Video Sentiment Model that can work with all three modalities gives it a better chance of understanding the context and arrive at accurate emotion & sentiment predictions. Hence, we are building a Multimodal Video Sentiment Model.
+
+![Modalities in the Video Sentiment Model](assets/Modalities-in-the-Video-Sentiment-Model.png)
+
 
